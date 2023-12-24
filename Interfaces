@@ -1,0 +1,163 @@
+client.dll->LegacyGameUI001->00007FFC9C9B29E0
+client.dll->Source2ClientUI001->00007FFC9C9A1C20
+client.dll->Source2ClientPrediction001->00007FFC9C8B9C80
+client.dll->ClientToolsInfo_001->00007FFC9C845B10
+client.dll->Source2Client002->00007FFC9C845B30
+client.dll->GameClientExports001->00007FFC9C845B20
+client.dll->EmptyWorldService001_Client->00007FFC9C5A0D10
+client.dll->Source2ClientConfig001->00007FFC9C587C50
+server.dll->NavGameTest001->00007FFC9E5DE8C0
+server.dll->ServerToolsInfo_001->00007FFC9E3E17A0
+server.dll->Source2GameClients001->00007FFC9E3E17B0
+server.dll->Source2GameEntities001->00007FFC9E3E17C0
+server.dll->Source2Server001->00007FFC9E3E17D0
+server.dll->EmptyWorldService001_Server->00007FFC9E133560
+server.dll->Source2ServerConfig001->00007FFC9E113490
+server.dll->EntitySubclassUtilsV001->00007FFC9DE71AA0
+server.dll->customnavsystem001->00007FFC9DDEECD0
+server.dll->Source2GameDirector001->00007FFC9DCE6430
+host.dll->Source2Host001->00007FFCBD498E10
+host.dll->SinglePlayerSharedMemory001->00007FFCBD498A90
+host.dll->SaveRestoreDataVersion001->00007FFCBD498A80
+host.dll->PredictionDiffManager001->00007FFCBD496E20
+host.dll->HostUtils001->00007FFCBD492550
+host.dll->GameSystem2HostHook->00007FFCBD491DA0
+host.dll->GameModelInfo001->00007FFCBD491CC0
+host.dll->DebugDrawQueueManager001->00007FFCBD491710
+matchmaking.dll->GameTypes001->00007FFCA9560300
+matchmaking.dll->MATCHFRAMEWORK_001->00007FFCA96117D0
+Failed to get CreateInterface function address for: amd_ags_x64.dll
+animationsystem.dll->AnimationSystemUtils_001->00007FFCAF3A4670
+animationsystem.dll->AnimationSystem_001->00007FFCAF39F1D0
+Failed to get module handle for: assetpreview.dll
+Failed to get module handle for: ati_compress_wrapper.dll
+Failed to get module handle for: bugreporter_filequeue.dll
+Failed to get CreateInterface function address for: cairo.dll
+Failed to get CreateInterface function address for: d3dcompiler_47.dll
+Failed to get CreateInterface function address for: dbghelp.dll
+Failed to get CreateInterface function address for: embree3.dll
+engine2.dll->SimpleEngineLoopService_001->00007FFCB41E65E0
+engine2.dll->ClientServerEngineLoopService_001->00007FFCB41DC0E0
+engine2.dll->KeyValueCache001->00007FFCB41D8720
+engine2.dll->HostStateMgr001->00007FFCB41D5F20
+engine2.dll->GameEventSystemServerV001->00007FFCB41D15C0
+engine2.dll->GameEventSystemClientV001->00007FFCB41D15B0
+engine2.dll->EngineServiceMgr001->00007FFCB41CD280
+engine2.dll->VProfService_001->00007FFCB41BAA30
+engine2.dll->ToolService_001->00007FFCB41B9780
+engine2.dll->StatsService_001->00007FFCB41B4A00
+engine2.dll->SplitScreenService_001->00007FFCB41B1BA0
+engine2.dll->SoundService_001->00007FFCB41AB680
+engine2.dll->ScreenshotService001->00007FFCB41A70F0
+engine2.dll->RenderService_001->00007FFCB41A4450
+engine2.dll->NetworkService_001->00007FFCB41A3F60
+engine2.dll->NetworkServerService_001->00007FFCB419EE10
+engine2.dll->NetworkP2PService_001->00007FFCB419A8C0
+engine2.dll->NetworkClientService_001->00007FFCB4194550
+engine2.dll->MapListService_001->00007FFCB418D520
+engine2.dll->InputService_001->00007FFCB417B600
+engine2.dll->GameUIService_001->00007FFCB4175D30
+engine2.dll->GameResourceServiceServerV001->00007FFCB4173A90
+engine2.dll->GameResourceServiceClientV001->00007FFCB4173A80
+engine2.dll->BugService001->00007FFCB416CA20
+engine2.dll->BenchmarkService001->00007FFCB416B1C0
+engine2.dll->VENGINE_GAMEUIFUNCS_VERSION005->00007FFCB41189D0
+engine2.dll->EngineGameUI001->00007FFCB4117D60
+engine2.dll->INETSUPPORT_001->00007FFCB40E73A0
+engine2.dll->Source2EngineToServerStringTable001->00007FFCB40A2820
+engine2.dll->Source2EngineToServer001->00007FFCB408B7D0
+engine2.dll->Source2EngineToClientStringTable001->00007FFCB40842A0
+engine2.dll->Source2EngineToClient001->00007FFCB405AA30
+filesystem_stdio.dll->VAsyncFileSystem2_001->00007FFCDB2279D0
+filesystem_stdio.dll->VFileSystem017->00007FFCDB2279C0
+Failed to get module handle for: gfsdk_aftermath_lib.x64.dll
+Failed to get module handle for: helpsystem.dll
+Failed to get CreateInterface function address for: icui18n.dll
+Failed to get CreateInterface function address for: icuuc.dll
+imemanager.dll->IMEManager001->00007FFD605BC470
+inputsystem.dll->InputSystemVersion001->00007FFD460428D0
+inputsystem.dll->InputStackSystemVersion001->00007FFD460416F0
+Failed to get CreateInterface function address for: libavcodec-58.dll
+Failed to get CreateInterface function address for: libavformat-58.dll
+Failed to get CreateInterface function address for: libavresample-4.dll
+Failed to get CreateInterface function address for: libavutil-56.dll
+Failed to get module handle for: libfbxsdk_2020_3_1.dll
+Failed to get CreateInterface function address for: libfontconfig-1.dll
+Failed to get CreateInterface function address for: libfreetype-6.dll
+Failed to get CreateInterface function address for: libglib-2.0-0.dll
+Failed to get CreateInterface function address for: libgmodule-2.0-0.dll
+Failed to get CreateInterface function address for: libgobject-2.0-0.dll
+Failed to get module handle for: libgthread-2.0-0.dll
+Failed to get CreateInterface function address for: libmpg123-0.dll
+Failed to get CreateInterface function address for: libpango-1.0-0.dll
+Failed to get CreateInterface function address for: libpangoft2-1.0-0.dll
+Failed to get CreateInterface function address for: libswscale-5.dll
+localize.dll->Localize_001->00007FFD36313830
+materialsystem2.dll->MaterialUtils_001->00007FFCFFF9DCB0
+materialsystem2.dll->TextLayout_001->00007FFCFFF9A400
+materialsystem2.dll->PostProcessingSystem_001->00007FFCFFF92B80
+materialsystem2.dll->FontManager_001->00007FFCFFF87A20
+materialsystem2.dll->VMaterialSystem2_001->00007FFCFFF75FC0
+meshsystem.dll->MeshSystem001->00007FFCD9D67270
+navsystem.dll->NavSystem001->00007FFCD1BD76F0
+networksystem.dll->SerializedEntitiesVersion001->00007FFCBEFE1920
+networksystem.dll->NetworkSystemVersion001->00007FFCBEFCC2B0
+networksystem.dll->NetworkMessagesVersion001->00007FFCBEFACA00
+networksystem.dll->FlattenedSerializersVersion001->00007FFCBEF8C770
+Failed to get module handle for: nvlowlatencyvk.dll
+Failed to get module handle for: p4lib.dll
+panorama.dll->PanoramaUIEngine001->00007FFCA9C27EE0
+panoramauiclient.dll->PanoramaUIClient001->00007FFCAD692780
+panorama_text_pango.dll->PanoramaTextServices001->00007FFCA993CBD0
+particles.dll->ParticleSystemMgr003->00007FFCAD9A2D20
+Failed to get CreateInterface function address for: phonon.dll
+Failed to get module handle for: phonon4.dll
+Failed to get module handle for: physicsbuilder.dll
+Failed to get module handle for: propertyeditor.dll
+pulse_system.dll->IPulseSystem_001->00007FFD001D5B30
+Failed to get module handle for: Qt5Concurrent.dll
+Failed to get module handle for: Qt5Core.dll
+Failed to get module handle for: Qt5Gui.dll
+Failed to get module handle for: Qt5Widgets.dll
+rendersystemdx11.dll->RenderUtils_001->00007FFCB25A3100
+rendersystemdx11.dll->VRenderDeviceMgrBackdoor001->00007FFCB259A690
+rendersystemdx11.dll->RenderDeviceMgr001->00007FFCB259A680
+Failed to get module handle for: rendersystemempty.dll
+Failed to get module handle for: rendersystemvulkan.dll
+Failed to get module handle for: resourcecompiler.dll
+resourcesystem.dll->ResourceSystem013->00007FFD2D500650
+scenefilecache.dll->SceneFileCache002->00007FFCD44668E0
+scenefilecache.dll->ResponseRulesCache001->00007FFCD4463190
+scenesystem.dll->SceneUtils_001->00007FFCAE6BC9E0
+scenesystem.dll->SceneSystem_002->00007FFCAE64AA30
+scenesystem.dll->RenderingPipelines_001->00007FFCAE60E8A0
+schemasystem.dll->SchemaSystem_001->00007FFD0318A930
+Failed to get CreateInterface function address for: SDL3.dll
+soundsystem.dll->SoundOpSystem001->00007FFCAECE7B00
+soundsystem.dll->SoundOpSystemEdit001->00007FFCAEC1CEE0
+soundsystem.dll->VMixEditTool001->00007FFCAEC01FF0
+soundsystem.dll->SoundSystem001->00007FFCAEBD6AE0
+steamaudio.dll->SteamAudio001->00007FFD029F2EE0
+Failed to get CreateInterface function address for: steamnetworkingsockets.dll
+Failed to get CreateInterface function address for: steam_api64.dll
+Failed to get module handle for: symsrv.dll
+tier0.dll->VStringTokenSystem001->00007FFCBD75C360
+tier0.dll->TestScriptMgr001->00007FFCBD70F6C0
+tier0.dll->VProcessUtils002->00007FFCBD6FF840
+tier0.dll->VEngineCvar007->00007FFCBD6319D0
+Failed to get module handle for: toolframework2.dll
+Failed to get CreateInterface function address for: v8.dll
+v8system.dll->Source2V8System001->00007FFD3A2F1670
+Failed to get CreateInterface function address for: v8_libbase.dll
+Failed to get CreateInterface function address for: v8_libplatform.dll
+Failed to get CreateInterface function address for: v8_zlib.dll
+valve_avi.dll->VAvi001->00007FFD37242F90
+valve_wmf.dll->VMediaFoundation001->00007FFD3A2212D0
+Failed to get module handle for: vconcomm.dll
+Failed to get module handle for: vfx_dx11.dll
+Interface list not found for: video64.dll
+Failed to get module handle for: visbuilder.dll
+vphysics2.dll->VPhysics2_Handle_Interface_001->00007FFCAEF61990
+vphysics2.dll->VPhysics2_Interface_001->00007FFCAEF5CFB0
+vscript.dll->VScriptManager010->00007FFCD33B1DA0
+worldrenderer.dll->WorldRendererMgr001->00007FFCD4501650
